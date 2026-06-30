@@ -8,8 +8,6 @@ mainset:
     probability: 1
   - name: Nuriootpa
     probability: 1
-  - name: Angaston
-    probability: 1
   - name: Kapunda
     probability: 1
   - name: Gawler
@@ -28,7 +26,7 @@ mainset:
     probability: 1
   - name: Stockport
     probability: 1
-  - name: ' Adelaide'
+  - name: Adelaide
     probability: 1
   - name: Hahndorf
     probability: 1
@@ -211,5 +209,5 @@ mainset:
   - name: Angaston
     probability: 1
 name: Names
-source: SA town names
+source: null
 subsets: []
