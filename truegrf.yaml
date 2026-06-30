@@ -1,4 +1,6 @@
 description: A new TrueGRF project
 license: CC0-1.0
+name: SA Town Names
 type: townname
+url: https://github.com/keylachlan-glitch/satownnames
 version: 6

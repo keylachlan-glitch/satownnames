@@ -1,0 +1,215 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Wilmington
+    probability: 1
+  - name: Tanunda
+    probability: 1
+  - name: Nuriootpa
+    probability: 1
+  - name: Angaston
+    probability: 1
+  - name: Kapunda
+    probability: 1
+  - name: Gawler
+    probability: 1
+  - name: Freeling
+    probability: 1
+  - name: Lyndoch
+    probability: 1
+  - name: Williamstown
+    probability: 1
+  - name: Greenock
+    probability: 1
+  - name: Eudunda
+    probability: 1
+  - name: Tarlee
+    probability: 1
+  - name: Stockport
+    probability: 1
+  - name: ' Adelaide'
+    probability: 1
+  - name: Hahndorf
+    probability: 1
+  - name: Mount Barker
+    probability: 1
+  - name: Stirling
+    probability: 1
+  - name: Lobethal
+    probability: 1
+  - name: Woodside
+    probability: 1
+  - name: Gumeracha
+    probability: 1
+  - name: Birdwood
+    probability: 1
+  - name: Palmer
+    probability: 1
+  - name: Nairne
+    probability: 1
+  - name: Victor Harbor
+    probability: 1
+  - name: Goolwa
+    probability: 1
+  - name: Strathalbyn
+    probability: 1
+  - name: Yankalilla
+    probability: 1
+  - name: Normanville
+    probability: 1
+  - name: Port Elliot
+    probability: 1
+  - name: Middleton
+    probability: 1
+  - name: Port Lincoln
+    probability: 1
+  - name: Whyalla
+    probability: 1
+  - name: Ceduna
+    probability: 1
+  - name: Coffin Bay
+    probability: 1
+  - name: Tumby Bay
+    probability: 1
+  - name: Cowell
+    probability: 1
+  - name: Cleve
+    probability: 1
+  - name: Kimba
+    probability: 1
+  - name: Wudinna
+    probability: 1
+  - name: Streaky Bay
+    probability: 1
+  - name: Smoky Bay
+    probability: 1
+  - name: Elliston
+    probability: 1
+  - name: Kadina
+    probability: 1
+  - name: Wallaroo
+    probability: 1
+  - name: Moonta
+    probability: 1
+  - name: Maitland
+    probability: 1
+  - name: Minlaton
+    probability: 1
+  - name: Yorketown
+    probability: 1
+  - name: Ardrossan
+    probability: 1
+  - name: Edithburgh
+    probability: 1
+  - name: Port Vincent
+    probability: 1
+  - name: Stansbury
+    probability: 1
+  - name: Clare
+    probability: 1
+  - name: Burra
+    probability: 1
+  - name: Port Pirie
+    probability: 1
+  - name: Balaklava
+    probability: 1
+  - name: Riverton
+    probability: 1
+  - name: Mount Gambier
+    probability: 1
+  - name: Swan Reach
+    probability: 1
+  - name: Murray Bridge
+    probability: 1
+  - name: Renmark
+    probability: 1
+  - name: Berri
+    probability: 1
+  - name: Loxton
+    probability: 1
+  - name: Barmera
+    probability: 1
+  - name: Mannum
+    probability: 1
+  - name: Tailem Bend
+    probability: 1
+  - name: Pinnaroo
+    probability: 1
+  - name: Lameroo
+    probability: 1
+  - name: Karoonda
+    probability: 1
+  - name: Waikerie
+    probability: 1
+  - name: Morgan
+    probability: 1
+  - name: Blanchetown
+    probability: 1
+  - name: Meningie
+    probability: 1
+  - name: Wellington
+    probability: 1
+  - name: Milang
+    probability: 1
+  - name: Claypan
+    probability: 1
+  - name: Port Augusta
+    probability: 1
+  - name: Coober Pedy
+    probability: 1
+  - name: Quorn
+    probability: 1
+  - name: Hawker
+    probability: 1
+  - name: Marree
+    probability: 1
+  - name: Oodnadatta
+    probability: 1
+  - name: Blinman
+    probability: 1
+  - name: Innamincka
+    probability: 1
+  - name: Andamooka
+    probability: 1
+  - name: Roxby Downs
+    probability: 1
+  - name: Woomera
+    probability: 1
+  - name: Copley
+    probability: 1
+  - name: Yunta
+    probability: 1
+  - name: 'Port Wakefield '
+    probability: 1
+  - name: Melrose
+    probability: 1
+  - name: Wirrabara
+    probability: 1
+  - name: Laura
+    probability: 1
+  - name: Gladstone
+    probability: 1
+  - name: Gulnare
+    probability: 1
+  - name: Yacka
+    probability: 1
+  - name: Booleroo Centre
+    probability: 1
+  - name: 'Murray Town '
+    probability: 1
+  - name: Crystal Brook
+    probability: 1
+  - name: 'Port Broughton '
+    probability: 1
+  - name: Jamestown
+    probability: 1
+  - name: Peterborough
+    probability: 1
+  - name: Orroroo
+    probability: 1
+  - name: Angaston
+    probability: 1
+name: Names
+source: SA town names
+subsets: []
